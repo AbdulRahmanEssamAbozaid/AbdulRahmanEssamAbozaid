@@ -78,4 +78,54 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer" />
 </div>
 
+<!-- 🚀 My Projects Section -->
+<h2 align="center">🚀 My Projects</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; padding: 20px;">
+
+  <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank" style="text-decoration:none;">
+    <div style="background: linear-gradient(145deg,#1f1f1f,#2a2a2a); border-radius:16px; padding:20px; transition:all .3s ease; box-shadow:0 4px 12px rgba(0,0,0,0.4); animation:fadeIn 1s ease-in-out;">
+      <h3 style="color:#58a6ff;">IOT Communication System</h3>
+      <p style="color:#ccc;">Using Yocto project for Raspberry Pi 4 and QEMU</p>
+      <span style="color:#f78166;">C++</span>
+    </div>
+  </a>
+
+  <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank" style="text-decoration:none;">
+    <div style="background: linear-gradient(145deg,#1f1f1f,#2a2a2a); border-radius:16px; padding:20px; transition:all .3s ease; box-shadow:0 4px 12px rgba(0,0,0,0.4); animation:fadeIn 1.3s ease-in-out;">
+      <h3 style="color:#58a6ff;">Smart Wallet</h3>
+      <p style="color:#ccc;">NTI C++ Project</p>
+      <span style="color:#f78166;">C++</span>
+    </div>
+  </a>
+
+  <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-" target="_blank" style="text-decoration:none;">
+    <div style="background: linear-gradient(145deg,#1f1f1f,#2a2a2a); border-radius:16px; padding:20px; transition:all .3s ease; box-shadow:0 4px 12px rgba(0,0,0,0.4); animation:fadeIn 1.6s ease-in-out;">
+      <h3 style="color:#58a6ff;">Embedded Linux NTI</h3>
+      <p style="color:#ccc;">Embedded Linux Repo for Tasks</p>
+      <span style="color:#8ae9ff;">BitBake</span>
+    </div>
+  </a>
+
+</div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+a div:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+}
+@media (prefers-color-scheme: light) {
+  div[align="center"] div {
+    background: linear-gradient(145deg,#f0f0f0,#dcdcdc);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+  div[align="center"] h3 { color: #0366d6; }
+  div[align="center"] p { color: #333; }
+}
+</style>
+
 ---
