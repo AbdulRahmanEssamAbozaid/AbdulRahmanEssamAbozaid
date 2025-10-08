@@ -19,11 +19,35 @@
 ### ⚙️ Tools I Use
 <div align="center">
   
-| Development | Boards | Systems |
-|--------------|---------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="STM32"/> <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="TivaC"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
+| 🧠 Development | 🔌 Boards | 🧰 Systems |
+|----------------|-----------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://img.icons8.com/color/48/000000/makefile.png" height="40" alt="Make"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="STM32"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="TivaC"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
 
 </div>
+
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  animation: fadeIn 1s ease-in-out;
+}
+td, th {
+  text-align: center;
+  padding: 10px;
+}
+img {
+  margin: 6px;
+  transition: transform 0.3s ease;
+}
+img:hover {
+  transform: scale(1.15);
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 ---
 
