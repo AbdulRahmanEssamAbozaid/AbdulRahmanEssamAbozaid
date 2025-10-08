@@ -18,34 +18,64 @@
 
 ### ⚙️ Tools I Use
 <div align="center">
-  
-| 🧠 Development | 🔌 Boards | 🧰 Systems |
-|----------------|-----------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://img.icons8.com/color/48/000000/makefile.png" height="40" alt="Make"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="STM32"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="TivaC"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
+
+<table>
+  <tr>
+    <th>🧠 Development</th>
+    <th>🔌 Boards</th>
+    <th>🧰 Systems</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/>
+      <img src="https://img.icons8.com/color/48/000000/makefile.png" height="40" alt="Make"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+      <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/>
+      <img src="https://img.icons8.com/color/48/microchip.png" height="40" alt="Microcontroller"/>
+      <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="TivaC"/>
+      <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+      <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/>
+      <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <style>
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-  animation: fadeIn 1s ease-in-out;
+/* visual polish: hover + stagger fade-in */
+table { width:100%; border-collapse:collapse; margin-top:10px; }
+td, th { text-align:center; padding:10px; }
+td img { margin:6px; transition: transform 0.28s cubic-bezier(.2,.9,.2,1), filter .28s; filter: drop-shadow(0 2px 6px rgba(0,0,0,0.35)); border-radius:8px; }
+td img:hover { transform: translateY(-6px) scale(1.15); filter: drop-shadow(0 6px 18px rgba(0,0,0,0.55)); }
+
+/* simple staggered fade-in for all icons */
+td img { opacity:0; transform: translateY(12px) scale(0.98); animation: iconIn 420ms forwards; }
+td img:nth-child(1){ animation-delay: 0.15s; }
+td img:nth-child(2){ animation-delay: 0.28s; }
+td img:nth-child(3){ animation-delay: 0.41s; }
+td img:nth-child(4){ animation-delay: 0.54s; }
+td img:nth-child(5){ animation-delay: 0.67s; }
+td img:nth-child(6){ animation-delay: 0.80s; }
+
+@keyframes iconIn {
+  to { opacity:1; transform: translateY(0) scale(1); }
 }
-td, th {
-  text-align: center;
-  padding: 10px;
-}
-img {
-  margin: 6px;
-  transition: transform 0.3s ease;
-}
-img:hover {
-  transform: scale(1.15);
-}
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+
+/* light theme tweaks */
+@media (prefers-color-scheme: light) {
+  td img { filter: drop-shadow(0 2px 6px rgba(0,0,0,0.12)); }
+  td img:hover { filter: drop-shadow(0 6px 18px rgba(0,0,0,0.18)); }
 }
 </style>
 
