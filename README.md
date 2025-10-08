@@ -63,6 +63,16 @@
 </div>
 
 ---
+### 🧠 Featured Repositories  
+
+<picture>
+  <!-- 🌑 Dark Theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-dark.svg" />
+  <!-- ☀️ Light Theme -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-light.svg" />
+  <img alt="Animated Repositories Showcase" src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-dark.svg" />
+</picture>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer" />
