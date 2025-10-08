@@ -20,6 +20,20 @@ Always eager to learn new tools and contribute to innovative projects!
 
 ---
 
+## 🚀 Featured Projects
+### 🔹 Embedded GPIO Driver
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdozaid&repo=gpio-driver&theme=tokyonight)](https://github.com/abdozaid/gpio-driver)
+
+### 🔹 Yocto Custom Image
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdozaid&repo=yocto-custom-image&theme=tokyonight)](https://github.com/abdozaid/yocto-custom-image)
+
+### 🔹 C++ TCP Server
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdozaid&repo=tcp-server&theme=tokyonight)](https://github.com/abdozaid/tcp-server)
+
+> 💡 يمكنك تغيير أسماء الـ repos أعلاه لتكون مشاريعك الحقيقية من GitHub.
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdozaid&show_icons=true&theme=tokyonight&hide_border=true" />
