@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<style>
+  .bg{fill:#0D1117}
+  .card{fill:#0f1720;rx:12;}
+  .title{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:16px; fill:#E6EEF3; font-weight:700}
+  .desc{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#9FB6C8;}
+  .meta{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#E6EEF3; font-weight:600}
+  .link{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#9FB6C8; text-decoration:underline}
+  .star{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#FFD166;}
+  .card-group{transform-origin: center;}
+  @keyframes fadeScale {
+    0% { opacity: 0; transform: translateY(6px) scale(0.985); }
+    100% { opacity: 1; transform: translateY(0px) scale(1); }
+  }
+</style>
+<rect class="bg" x="0" y="0" width="900" height="380"/>
+<text x="450.0" y="28" text-anchor="middle" font-family="Inter, Poppins, Arial" font-size="20" fill="#E6EEF3" font-weight="700">Featured Repositories</text>
+
+<a xlink:href="https://github.com/AbdoRobusta/IOT_Communication_System.git" target="_blank">
+  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 0.0s; opacity:0;">
+    <rect class="card" x="70.0" y="40" width="760" height="60" rx="10" ry="10" />
+    <text class="title" x="86.0" y="62">⚙️ IOT_Communication_System</text>
+    <text class="desc" x="86.0" y="80">IoT comms: MQTT, encryption, and sensor aggregation.</text>
+    <text class="meta" x="630.0" y="62">★ 12</text>
+    <text class="meta" x="630.0" y="80">C / Python</text>
+    <text class="link" x="86.0" y="94">🔗 View on GitHub</text>
+  </g>
+</a>
+
+
+<a xlink:href="https://github.com/AbdoRobusta/Smart-Wallet.git" target="_blank">
+  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 0.5s; opacity:0;">
+    <rect class="card" x="70.0" y="116" width="760" height="60" rx="10" ry="10" />
+    <text class="title" x="86.0" y="138">💼 Smart-Wallet</text>
+    <text class="desc" x="86.0" y="156">Embedded secure wallet for microcontrollers.</text>
+    <text class="meta" x="630.0" y="138">★ 8</text>
+    <text class="meta" x="630.0" y="156">C++</text>
+    <text class="link" x="86.0" y="170">🔗 View on GitHub</text>
+  </g>
+</a>
+
+
+<a xlink:href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-.git" target="_blank">
+  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 1.0s; opacity:0;">
+    <rect class="card" x="70.0" y="192" width="760" height="60" rx="10" ry="10" />
+    <text class="title" x="86.0" y="214">🐧 Embedded-Linux-NTI-</text>
+    <text class="desc" x="86.0" y="232">Embedded Linux projects: kernels, drivers, Yocto recipes.</text>
+    <text class="meta" x="630.0" y="214">★ 15</text>
+    <text class="meta" x="630.0" y="232">C, Yocto</text>
+    <text class="link" x="86.0" y="246">🔗 View on GitHub</text>
+  </g>
+</a>
+
+</svg>
