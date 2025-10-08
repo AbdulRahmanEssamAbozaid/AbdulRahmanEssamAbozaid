@@ -1,6 +1,6 @@
 <!-- 🌊 Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=180&section=header&text=Abdo%20Essam%20Abozaid%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer" />
 </div>
 
 <h2 align="center">🚀 Embedded Linux Developer | Passionate about Open-Source and Embedded Systems</h2>
