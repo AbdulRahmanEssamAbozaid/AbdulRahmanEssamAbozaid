@@ -1,56 +1,48 @@
-<!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdo%20Essam%20Abozaid%20👨‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<h2 align="left">Hi 👋! My name is Abdo Essam Abozaid and I'm an Embedded Linux Developer from Egypt 🇪🇬</h2>
 
-## 👋 About Me
-**Embedded Linux Developer**  
-I’m passionate about **embedded systems** and **open-source technologies**.  
-Always eager to learn new tools and contribute to innovative projects!
+###
 
----
-
-## 🧠 Skills & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Yocto](https://img.shields.io/badge/Yocto-3D7DB4?style=for-the-badge&logo=yocto&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-### 🔹 Embedded GPIO Driver
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=gpio-driver&theme=tokyonight)](https://github.com/AbdoRobusta/gpio-driver)
-
-### 🔹 Yocto Custom Image
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=yocto-custom-image&theme=tokyonight)](https://github.com/AbdoRobusta/yocto-custom-image)
-
-### 🔹 C++ TCP Server
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=tcp-server&theme=tokyonight)](https://github.com/AbdoRobusta/tcp-server)
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoRobusta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoRobusta&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoessamabozaid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoessamabozaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
+###
 
-## 🧩 Top Languages
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoRobusta&layout=compact&theme=tokyonight&hide_border=true" />
+<img align="right" height="150" src="https://i.imgur.com/1Xd7Rlj.gif" alt="developer animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Yocto-4051B5?logo=yocto&logoColor=white" height="30" alt="Yocto logo" />
 </div>
 
----
+###
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdo%20Essam%20Abozaid-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdo-essam-abozaid-441ab4244)
-[![Gmail](https://img.shields.io/badge/Email-abdoessamabozaid@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoessamabozaid@gmail.com)
+<div align="left">
+  <a href="mailto:abdoessamabozaid@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdo-essam-abozaid-441ab4244" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+</div>
 
----
+###
 
-<!-- Animated Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abdoessamabozaid/abdoessamabozaid/output/snake.svg" alt="Snake animation" />
+
+###
