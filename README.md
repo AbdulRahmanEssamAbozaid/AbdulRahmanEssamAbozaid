@@ -1,6 +1,12 @@
-<h2 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Abdo Essam Abozaid</span></h2>
+<!-- 🌌 Fancy GitHub Profile README by Abdo Essam Abozaid -->
 
-<h4 align="center">🚀 Embedded Linux Developer | Passionate about Open-Source & System-Level Programming</h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Abdo%20Essam%20Abozaid&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&desc=Embedded%20Linux%20Developer&descAlign=50&descAlignY=65" />
+</p>
+
+<p align="center">
+  <i>“Passionate about Embedded Systems and Open-Source Technologies.”</i>
+</p>
 
 ---
 
@@ -51,22 +57,22 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoRobusta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoRobusta&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoRobusta&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoRobusta&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" />
 </div>
 
 ---
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoRobusta&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoRobusta&theme=tokyonight&hide_border=false" height="150" />
 </div>
 
 ---
 
 ### 🐍 Snake Animation
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AbdoRobusta/AbdoRobusta/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -81,5 +87,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 </p>
