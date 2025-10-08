@@ -81,6 +81,7 @@ td img:nth-child(6){ animation-delay: 0.80s; }
 
 ---
 
+
 ### 💼 Projects
 
 - 🧩 **Custom Yocto Layer for Embedded Board** — Building a meta-layer for custom ARM target.  
