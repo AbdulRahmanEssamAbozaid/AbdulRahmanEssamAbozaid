@@ -1,54 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
-<style>
-  .bg{fill:#EAEAEA}
-  .card{fill:#FFFFFF;rx:12;}
-  .title{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:16px; fill:#0B1220; font-weight:700}
-  .desc{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#4B5563;}
-  .meta{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#0B1220; font-weight:600}
-  .link{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#4B5563; text-decoration:underline}
-  .star{font-family: "Inter", "Poppins", Arial, sans-serif; font-size:12px; fill:#D4AF37;}
-  .card-group{transform-origin: center;}
-  @keyframes fadeScale {
-    0% { opacity: 0; transform: translateY(6px) scale(0.985); }
-    100% { opacity: 1; transform: translateY(0px) scale(1); }
-  }
-</style>
-<rect class="bg" x="0" y="0" width="900" height="380"/>
-<text x="450.0" y="28" text-anchor="middle" font-family="Inter, Poppins, Arial" font-size="20" fill="#0B1220" font-weight="700">Featured Repositories</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420">
+  <style>
+    .bg {
+      fill: #f6f8fa;
+    }
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1;
+      rx: 12;
+      ry: 12;
+      filter: drop-shadow(0px 3px 6px rgba(0,0,0,0.25));
+      transform: scale(0.9);
+      opacity: 0;
+      animation: fadeInScale 0.6s forwards;
+    }
+    .title {
+      fill: #24292f;
+      font: bold 16px "Segoe UI", sans-serif;
+    }
+    .desc {
+      fill: #57606a;
+      font: 14px "Segoe UI", sans-serif;
+    }
+    .stars {
+      fill: #FFD700;
+      font: 13px "Segoe UI", sans-serif;
+    }
+    .link {
+      fill: #58a6ff;
+      font: 13px "Segoe UI", sans-serif;
+    }
+    .card:hover {
+      transform: scale(1.03);
+      stroke: #58a6ff;
+    }
+    @keyframes fadeInScale {
+      0% { opacity: 0; transform: scale(0.9); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+  </style>
 
-<a xlink:href="https://github.com/AbdoRobusta/IOT_Communication_System.git" target="_blank">
-  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 0.0s; opacity:0;">
-    <rect class="card" x="70.0" y="40" width="760" height="60" rx="10" ry="10" />
-    <text class="title" x="86.0" y="62">⚙️ IOT_Communication_System</text>
-    <text class="desc" x="86.0" y="80">IoT comms: MQTT, encryption, and sensor aggregation.</text>
-    <text class="meta" x="630.0" y="62">★ 12</text>
-    <text class="meta" x="630.0" y="80">C / Python</text>
-    <text class="link" x="86.0" y="94">🔗 View on GitHub</text>
+  <rect class="bg" width="100%" height="100%" rx="20" ry="20"/>
+
+  <!-- Embedded Linux NTI -->
+  <g style="animation-delay:0.3s">
+    <rect class="card" x="50" y="40" width="240" height="100"/>
+    <text class="title" x="65" y="65">Embedded-Linux-NTI-</text>
+    <text class="desc" x="65" y="85">Embedded Linux Projects & Training</text>
+    <text class="stars" x="65" y="105">★ 12 | Language: C</text>
+    <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-" target="_blank">
+      <text class="link" x="200" y="105">View on GitHub</text>
+    </a>
   </g>
-</a>
 
-
-<a xlink:href="https://github.com/AbdoRobusta/Smart-Wallet.git" target="_blank">
-  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 0.5s; opacity:0;">
-    <rect class="card" x="70.0" y="116" width="760" height="60" rx="10" ry="10" />
-    <text class="title" x="86.0" y="138">💼 Smart-Wallet</text>
-    <text class="desc" x="86.0" y="156">Embedded secure wallet for microcontrollers.</text>
-    <text class="meta" x="630.0" y="138">★ 8</text>
-    <text class="meta" x="630.0" y="156">C++</text>
-    <text class="link" x="86.0" y="170">🔗 View on GitHub</text>
+  <!-- IOT Communication System -->
+  <g style="animation-delay:0.6s">
+    <rect class="card" x="330" y="40" width="240" height="100"/>
+    <text class="title" x="345" y="65">IOT_Communication_System</text>
+    <text class="desc" x="345" y="85">IoT communication system over MQTT</text>
+    <text class="stars" x="345" y="105">★ 8 | Language: C++</text>
+    <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
+      <text class="link" x="470" y="105">View on GitHub</text>
+    </a>
   </g>
-</a>
 
-
-<a xlink:href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-.git" target="_blank">
-  <g class="card-group" transform="translate(0,0)" style="animation: fadeScale 500ms ease forwards; animation-delay: 1.0s; opacity:0;">
-    <rect class="card" x="70.0" y="192" width="760" height="60" rx="10" ry="10" />
-    <text class="title" x="86.0" y="214">🐧 Embedded-Linux-NTI-</text>
-    <text class="desc" x="86.0" y="232">Embedded Linux projects: kernels, drivers, Yocto recipes.</text>
-    <text class="meta" x="630.0" y="214">★ 15</text>
-    <text class="meta" x="630.0" y="232">C, Yocto</text>
-    <text class="link" x="86.0" y="246">🔗 View on GitHub</text>
+  <!-- Smart Wallet -->
+  <g style="animation-delay:0.9s">
+    <rect class="card" x="610" y="40" width="240" height="100"/>
+    <text class="title" x="625" y="65">Smart-Wallet</text>
+    <text class="desc" x="625" y="85">Secure embedded smart wallet system</text>
+    <text class="stars" x="625" y="105">★ 6 | Language: C</text>
+    <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank">
+      <text class="link" x="740" y="105">View on GitHub</text>
+    </a>
   </g>
-</a>
-
 </svg>
