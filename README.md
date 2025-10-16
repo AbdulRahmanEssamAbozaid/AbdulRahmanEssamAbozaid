@@ -65,17 +65,48 @@
 
 ---
 
-### 🧠 Featured Repositories  
+---
+
+### 💼 Projects
+
 <div align="center">
-  <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=IOT_Communication_System&theme=github_dark&hide_border=true" width="350">
-  </a>
-  <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Smart-Wallet&theme=github_dark&hide_border=true" width="350">
-  </a>
-  <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Embedded-Linux-NTI-&theme=github_dark&hide_border=true" width="350">
-  </a>
+
+<table>
+  <tr>
+    <td width="45%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+      <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
+        <h3>📡 IOT_Communication_System</h3>
+      </a>
+      <p>Using Yocto project for Raspberry Pi4 and QEMU</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
+      </p>
+    </td>
+
+    <td width="45%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+      <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank">
+        <h3>💳 Smart-Wallet</h3>
+      </a>
+      <p>NTI C++ Project</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" width="90%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+      <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI-" target="_blank">
+        <h3>🐧 Embedded-Linux-NTI-</h3>
+      </a>
+      <p>Embedded Linux Repo for Tasks</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-BitBake-FF69B4?logo=yocto-project&logoColor=white&style=for-the-badge" height="25"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
