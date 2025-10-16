@@ -1,27 +1,29 @@
-<!-- 🌊 Animated Wave Header -->
+<!-- 🖤 Dark Mode Profile -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=180&section=header&text=Abdo%20Essam%20Abozaid%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <h1 style="color:#8A2BE2; font-size: 40px;">AbdulRahman Essam Abozaid 👋</h1>
+  
+  <!-- Animated Job Title -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=435&lines=Embedded+Linux+Engineer;Embedded+Systems+Developer" alt="Typing SVG" />
+  </p>
 </div>
-
-<h2 align="center">🚀 Embedded Linux Developer | Passionate about Open-Source and Embedded Systems</h2>
 
 ---
 
 ### 🚀 About Me
-- Passionate about **embedded systems** and **open-source technologies**  
-- Skilled in **C, C++, Python, Yocto, Linux, Git**  
-- 📧 **abdoessamabozaid@gmail.com**  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/abdo-essam-abozaid-441ab4244)  
-- 🐙 [**GitHub**](https://github.com/AbdoRobusta)
+- 🎓 I graduated from **Bani Suef University** in 2025 with a degree in **Space Navigation Engineering** (GPA: 3.4).  
+- 💡 Currently, I'm an **Embedded Linux Trainee at NTI**, where I'm enhancing my skills in **C++, Linux Administration, and Embedded Linux development**.  
+- 💻 Passionate about **embedded systems** and **open-source technologies**.  
+- 🧠 Skilled in **C, C++, Python, Yocto, Linux, Git**.  
 
 ---
 
 ### ⚙️ Tools I Use
 <div align="center">
 
-| 🧠 Development | 🔌 Boards | 🧰 Systems |
-|----------------|-----------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://img.icons8.com/color/48/000000/makefile.png" height="40" alt="Make"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/microchip.png" height="40" alt="Microchip"/> <img src="https://img.icons8.com/color/48/000000/microchip.png" height="40" alt="TivaC"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
+| 🧠 Software & IDEs | 🔌 Boards & Hardware | 🧰 OS & Build Tools |
+|--------------------|----------------------|----------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/microchip.png" height="40" alt="Microchip"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
 
 </div>
 
@@ -52,28 +54,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 ### 🧠 Featured Repositories  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-light.svg" />
-  <img alt="Animated Repositories Showcase" src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/main/assets/repos-dark.svg" />
-</picture>
-
----
-
-<h2 align="center">🚀 My Projects</h2>
-
 <div align="center">
   <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=IOT_Communication_System&theme=github_dark&hide_border=true" width="350">
@@ -88,6 +69,21 @@
 
 ---
 
+### 🤝 Connect With Me
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer" />
+  <a href="mailto:abdoessamabozaid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdo-essam-abozaid-441ab4244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdoRobusta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p style="color:#777;">💬 “Passionate about building efficient and scalable embedded solutions.”</p>
 </div>
