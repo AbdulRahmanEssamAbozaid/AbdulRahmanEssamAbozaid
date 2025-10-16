@@ -74,9 +74,11 @@
 
 ---
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Streak  
 <div align="center">
-  <img src="https://streak-stats.mr8.dev?user=AbdoRobusta&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdoRobusta&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 </div>
 
 ---
