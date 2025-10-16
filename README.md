@@ -76,7 +76,7 @@
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoRobusta&theme=github-dark&hide_border=true" height="180" alt="streak graph"/>
+  <img src="https://streak-stats.mr8.dev?user=AbdoRobusta&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
 ---
