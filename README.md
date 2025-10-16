@@ -34,30 +34,34 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <h3>📡 <a href="https://github.com/AbdoRobusta/IOT_Communication_System">IoT Communication System</a></h3>
-      <p>Raspberry Pi 4 + QEMU + Yocto Project</p>
-      <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-project-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUser&repo=Project1&theme=radical" width="300" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+      </a>
+      <br/>
+      <b>🔹 Project 1</b>
+      <br/>
+      <sub>Short description here</sub>
     </td>
-
-   <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <h3>💳 <a href="https://github.com/AbdoRobusta/Smart-Wallet">Smart Wallet</a></h3>
-      <p>NTI C++ Project</p>
-      <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-project-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUser&repo=Project2&theme=radical" width="300" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+      </a>
+      <br/>
+      <b>🔹 Project 2</b>
+      <br/>
+      <sub>Short description here</sub>
     </td>
-  </tr>
-</table>
-
-<br>
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <h3>🐧 <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI">Embedded Linux NTI</a></h3>
-      <p>Embedded Linux Repository for NTI Tasks</p>
-      <img src="https://img.shields.io/badge/-Yocto-2496ED?logo=yocto-project&logoColor=white&style=for-the-badge" height="25"/>
+    <td align="center" width="33%">
+      <a href="https://github.com/your-project-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUser&repo=Project3&theme=radical" width="300" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+      </a>
+      <br/>
+      <b>🔹 Project 3</b>
+      <br/>
+      <sub>Short description here</sub>
     </td>
   </tr>
 </table>
