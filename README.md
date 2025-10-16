@@ -31,22 +31,19 @@
 ---
 
 ### 💼 Projects  
+
 <div align="center">
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
-        <h3>📡 IoT Communication System</h3>
-      </a>
+      <h3>📡 <a href="https://github.com/AbdoRobusta/IOT_Communication_System">IoT Communication System</a></h3>
       <p>Raspberry Pi 4 + QEMU + Yocto Project</p>
       <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
     </td>
 
    <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank">
-        <h3>💳 Smart Wallet</h3>
-      </a>
+      <h3>💳 <a href="https://github.com/AbdoRobusta/Smart-Wallet">Smart Wallet</a></h3>
       <p>NTI C++ Project</p>
       <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
     </td>
@@ -58,9 +55,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
-      <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI" target="_blank">
-        <h3>🐧 Embedded Linux NTI</h3>
-      </a>
+      <h3>🐧 <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI">Embedded Linux NTI</a></h3>
       <p>Embedded Linux Repository for NTI Tasks</p>
       <img src="https://img.shields.io/badge/-Yocto-2496ED?logo=yocto-project&logoColor=white&style=for-the-badge" height="25"/>
     </td>
