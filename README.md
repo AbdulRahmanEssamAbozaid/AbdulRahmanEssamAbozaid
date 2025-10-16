@@ -23,7 +23,7 @@
 
 | 🧠 Software & IDEs | 🔌 Boards & Hardware | 🧰 OS & Build Tools |
 |--------------------|----------------------|----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/platformio/platformio-original.svg" height="40" alt="PlatformIO"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/microchip.png" height="40" alt="Microchip"/> <img src="https://img.icons8.com/color/48/000000/electronics.png" height="40" alt="AVR"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/> <img src="https://img.icons8.com/color/48/esp32.png" height="40" alt="ESP32"/> <img src="https://img.icons8.com/color/48/microchip.png" height="40" alt="Microchip"/> <img src="https://img.icons8.com/color/48/microcontroller.png" height="40" alt="Microcontroller"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="40" alt="Yocto"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="40" alt="QEMU"/> |
 
 </div>
 
@@ -50,6 +50,17 @@
 ### 🔥 Contribution Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AbdoRobusta&theme=dracula&hide_border=false" height="180" />
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
