@@ -24,7 +24,7 @@
 
 | 🧠 **Software & IDEs** | 🔌 **Boards & Hardware** | 🧰 **OS & Build Tools** |
 |------------------------|--------------------------|--------------------------|
-| <img src="https://skillicons.dev/icons?i=vscode,git,github,cmake,vim" height="45"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="45"/> <img src="https://img.icons8.com/color/48/esp32.png" height="45" alt="ESP32"/> | <img src="https://skillicons.dev/icons?i=linux,bash" height="45"/> <img src="https://img.icons8.com/color/48/yocto-project.png" height="45" alt="Yocto"/> <img src="https://img.icons8.com/fluency/48/virtual-machine.png" height="45" alt="QEMU"/> |
+| <img src="https://skillicons.dev/icons?i=vscode,git,github,cmake,vim" height="45"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" height="45"/> <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="25" alt="ESP32"/> | <img src="https://skillicons.dev/icons?i=linux,bash" height="45"/> <img src="https://img.shields.io/badge/Yocto-00263A?style=for-the-badge&logo=yocto-project&logoColor=white" height="25" alt="Yocto"/> <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" height="25" alt="QEMU"/> |
 
 </div>
 
