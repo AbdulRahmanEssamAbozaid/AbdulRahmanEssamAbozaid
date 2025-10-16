@@ -1,20 +1,21 @@
 <!-- 🖤 GitHub Dark Profile -->
 <div align="center">
+
   <h1 style="color:#8A2BE2; font-size: 40px;">AbdulRahman Essam Abozaid 👋</h1>
-  
-  <!-- 🎯 Animated Job Title -->
+
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Embedded+Linux+Engineer;Embedded+Systems+Developer" alt="Typing SVG" />
   </p>
+
 </div>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 I graduated from **Bani Suef University** in 2025 with a degree in **Space Navigation Engineering** (GPA: 3.4).  
-- 💡 Currently, I'm an **Embedded Linux Trainee at NTI**, enhancing my skills in **C++, Linux Administration, and Embedded Linux Development**.  
-- 💻 Passionate about **Embedded Systems** and **Open-Source Technologies**.  
-- ⚙️ Skilled in **C, C++, Python, Yocto, Linux, Git**.  
+- 🎓 Graduated from **Bani Suef University (2025)** — **Space Navigation Engineering** (GPA: 3.4)  
+- 💡 Currently **Embedded Linux Trainee at NTI**  
+- 💻 Passionate about **Embedded Systems**, **Linux**, and **IoT**  
+- ⚙️ Skilled in **C, C++, Python, Yocto, Linux, Git**
 
 ---
 
@@ -32,38 +33,36 @@
 ### 💼 Projects  
 <div align="center">
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="45%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+    <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
       <a href="https://github.com/AbdoRobusta/IOT_Communication_System" target="_blank">
-        <h3>📡 IoT_Communication_System</h3>
+        <h3>📡 IoT Communication System</h3>
       </a>
-      <p>Using Yocto project for Raspberry Pi4 and QEMU</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
-      </p>
+      <p>Raspberry Pi 4 + QEMU + Yocto Project</p>
+      <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
     </td>
 
-    <td width="45%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+   <td align="center" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
       <a href="https://github.com/AbdoRobusta/Smart-Wallet" target="_blank">
         <h3>💳 Smart Wallet</h3>
       </a>
       <p>NTI C++ Project</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
-      </p>
+      <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25"/>
     </td>
   </tr>
+</table>
 
+<br>
+
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td colspan="2" width="90%" align="center" style="background-color:#0d1117; border-radius:10px; border:1px solid #30363d; padding:15px;">
+    <td align="center" width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px;">
       <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI" target="_blank">
-        <h3>🐧 Embedded-Linux-NTI</h3>
+        <h3>🐧 Embedded Linux NTI</h3>
       </a>
-      <p>Embedded Linux Repository for Tasks</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Yocto-2496ED?logo=yocto-project&logoColor=white&style=for-the-badge" height="25"/>
-      </p>
+      <p>Embedded Linux Repository for NTI Tasks</p>
+      <img src="https://img.shields.io/badge/-Yocto-2496ED?logo=yocto-project&logoColor=white&style=for-the-badge" height="25"/>
     </td>
   </tr>
 </table>
@@ -82,17 +81,14 @@
 
 ### 🔥 Contribution Streak  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdoRobusta&theme=github-dark-blue&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdoRobusta&theme=github-dark-blue&hide_border=false" height="180" />
 </div>
 
 ---
 
 ### 🐍 GitHub Contribution Snake  
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/AbdoRobusta/AbdoRobusta/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 ---
