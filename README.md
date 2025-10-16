@@ -12,11 +12,11 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Graduated from **Bani Suef University (2025)** — **Space Navigation Engineering** (GPA: 3.4)  
-- 💡 Currently **Embedded Linux Trainee at NTI**  
-- 💻 Passionate about **Embedded Systems**, **Linux**, and **IoT**  
-- ⚙️ Skilled in **C, C++, Python, Yocto, Linux, Git**
-
+- 🧠 Motivated **Embedded Linux Engineer** with a strong background in **microcontroller programming**, **Linux kernel customization**, and **Yocto-based systems**.  
+- 💡 Skilled in **C, C++, Python**, and **Shell scripting**, with hands-on experience in **AUTOSAR**, **RTOS**, and **Device Drivers**.  
+- 🌍 Passionate about **IoT, robotics, and space systems**, always aiming to bridge hardware and software through innovative embedded solutions.  
+- ⚙️ Experienced in **ARM Cortex-M**, **Raspberry Pi**, **TM4C (Tiva C)**, and **AVR** platforms.  
+- 🔧 Hands-on with **U-Boot, BusyBox, Systemd, QEMU, BitBake, and Build Automation**.  
 ---
 
 ### 🧰 Tools I Use  
@@ -70,7 +70,22 @@
 </div>
 
 ---
+### 🎓 Education  
+- 🎓 **Bachelor of Space Navigation Engineering** — *Bani Suef University*  
+  📅 Graduated: **2025** | **GPA: 3.4**  
+  🧠 **Graduation Project:** *Mixed Reality and AI-Based Airport Navigation System*  
+  - Designed and implemented a virtual airport navigation simulation integrating AI-based guidance and embedded communication.  
 
+---
+
+### 🎯 Current Focus & Goals  
+- 🔭 Deepening knowledge in **Linux kernel modules** and **device driver development**.  
+- 🧩 Advancing **Yocto Project** automation and layer integration for embedded boards.  
+- 🌐 Exploring **embedded networking** using **TCP/IP, UDP, and IPC frameworks (CommonAPI/vSomeIP)**.  
+- 🧠 Practicing **AUTOSAR MCAL development**, especially **PORT, DIO, and NVIC drivers** for ARM microcontrollers.  
+- 🚀 Long-term goal: become a **Lead Embedded Linux Engineer** specializing in **automotive and IoT systems**.
+  
+---
 ### 🔥 Contribution Streak  
 <div align="center">
 
