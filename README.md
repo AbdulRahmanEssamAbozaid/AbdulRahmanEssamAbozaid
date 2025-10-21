@@ -1,3 +1,11 @@
+<!-- 🌌 Animated Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" 
+       alt="Animated Banner" 
+       width="100%" 
+       style="border-radius: 10px;"/>
+</p>
+
 <!-- 🖤 GitHub Dark Profile -->
 <div align="center">
 
@@ -12,11 +20,18 @@
 ---
 
 ### 🚀 About Me  
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
+     alt="Developer Illustration"
+     width="350px"
+     align="right"
+     style="border-radius:15px; margin-left:15px;"/>
+
 - 🧠 Motivated **Embedded Linux Engineer** with a strong background in **microcontroller programming**, **Linux kernel customization**, and **Yocto-based systems**.  
 - 💡 Skilled in **C, C++, Python**, and **Shell scripting**, with hands-on experience in **AUTOSAR**, **RTOS**, and **Device Drivers**.  
 - 🌍 Passionate about **IoT, robotics, and space systems**, always aiming to bridge hardware and software through innovative embedded solutions.  
 - ⚙️ Experienced in **ARM Cortex-M**, **Raspberry Pi**, **TM4C (Tiva C)**, and **AVR** platforms.  
 - 🔧 Hands-on with **U-Boot, BusyBox, Systemd, QEMU, BitBake, and Build Automation**.  
+
 ---
 
 ### 🧰 Tools I Use  
@@ -63,13 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoRobusta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoRobusta&layout=compact&theme=github_dark" height="160" />
-</div>
-
----
 ### 🎓 Education  
 - 🎓 **Bachelor of Space Navigation Engineering** — *Bani Suef University*  
   📅 Graduated: **2025** | **GPA: 3.4**  
@@ -86,6 +94,60 @@
 - 🚀 Long-term goal: become a **Lead Embedded Linux Engineer** specializing in **automotive and IoT systems**.
   
 ---
+
+<details>
+  <summary>
+    📈 <b>Get My Code Stats</b>  
+    <img src="https://media.giphy.com/media/j5QcmXoFWl4Q0/giphy.gif" width="35" alt="animated spark" style="vertical-align: middle; margin-left: 8px;" />
+  </summary>
+
+  <br/>
+
+  <div align="left">
+    
+  **I'm an Early 🐤**
+
+  ```text
+  🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+  🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
+  🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+  🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+  ```
+
+  📅 **Most Productive On:** **Tuesday**  
+  ```text
+Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+  ```
+
+  🕒 **This Week’s Coding Time**
+  ```text
+  💻 Languages:
+  C++        ████████████████░░░░░░   67.5%
+  Bash       ████░░░░░░░░░░░░░░░░░░   12.3%
+  Python     ██░░░░░░░░░░░░░░░░░░░░    8.7%
+  Yocto      █░░░░░░░░░░░░░░░░░░░░░    4.2%
+  Other      ░░░░░░░░░░░░░░░░░░░░░░    2.1%
+  ```
+
+  📊 **I Mostly Code In:**  
+  ```text
+  C++          ███████████░░░   42.5%
+  Python       ██████░░░░░░░   26.0%
+  Bash         ███░░░░░░░░░░   13.5%
+  Yocto        ██░░░░░░░░░░░   8.0%
+  Others       █░░░░░░░░░░░░   10.0%
+  ```
+  </div>
+</details>
+
+---
+
 ### 🔥 Contribution Streak  
 <div align="center">
 
