@@ -1,9 +1,11 @@
 <!-- 🌌 Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" 
-       alt="Animated Banner" 
-       width="100%" 
-       style="border-radius: 10px;"/>
+  <img 
+    src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" 
+    alt="Animated Banner"
+    width="100%"
+    style="border-radius: 10px; margin-bottom: 15px;" 
+  />
 </p>
 
 <!-- 🖤 GitHub Dark Profile -->
