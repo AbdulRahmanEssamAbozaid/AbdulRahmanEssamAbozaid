@@ -28,11 +28,11 @@
      align="right"
      style="border-radius:15px; margin-left:15px;"/>
 
-- 🧠 Motivated **Embedded Linux Engineer** with a strong background in **microcontroller programming**, **Linux kernel customization**, and **Yocto-based systems**.  
-- 💡 Skilled in **C, C++, Python**, and **Shell scripting**, with hands-on experience in **AUTOSAR**, **RTOS**, and **Device Drivers**.  
-- 🌍 Passionate about **IoT, robotics, and space systems**, always aiming to bridge hardware and software through innovative embedded solutions.  
-- ⚙️ Experienced in **ARM Cortex-M**, **Raspberry Pi**, **TM4C (Tiva C)**, and **AVR** platforms.  
-- 🔧 Hands-on with **U-Boot, BusyBox, Systemd, QEMU, BitBake, and Build Automation**.  
+- 🧠 Passionate **Embedded Linux Engineer** with a strong foundation in **microcontroller programming**, **Linux kernel development**, and **Yocto-based embedded systems**.  
+- 💡 Proficient in **C, C++, Python**, and **Shell scripting**, with practical experience in **AUTOSAR**, **RTOS**, and **Device Driver development**.  
+- 🌍 Enthusiastic about **IoT, robotics, and aerospace systems**, focusing on bridging the gap between **hardware and software** through innovative embedded solutions.  
+- ⚙️ Skilled in **ARM Cortex-M**, **Raspberry Pi**, **TM4C (Tiva C)**, and **AVR** architectures for real-time and bare-metal applications.  
+- 🔧 Experienced with **U-Boot, BusyBox, Systemd, QEMU, BitBake**, and **build automation** tools used in modern embedded Linux workflows.  
 
 ---
 
