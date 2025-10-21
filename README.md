@@ -40,49 +40,43 @@
 
 <div align="center">
 
-<!-- 🧰 Development & Programming Tools -->
-<a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,vscode,clion,eclipse,git,github,cmake,vim,docker,bash,linux,ubuntu,gcp,arduino,raspberrypi,discord,linkedin,gmail" height="60" />
-</a>
+<!-- ✨ Animated Icons -->
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,vscode,clion,eclipse,git,github,cmake,vim,docker,bash,linux,ubuntu,gcp,arduino,raspberrypi,discord,linkedin,gmail" height="85" style="margin:10px;" />
+  </a>
+</p>
 
-<br><br>
-
-<!-- ⚙️ Embedded Software & Hardware Stack -->
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-
+<!-- ⚙️ Embedded Stack -->
+<p align="center">
   <a href="https://www.yoctoproject.org/" target="_blank">
     <img src="https://img.shields.io/badge/Yocto-00263A?style=for-the-badge&logo=yocto-project&logoColor=white" 
-         alt="Yocto Project" height="40" title="Yocto Project"/>
+         alt="Yocto Project" height="45" title="Yocto Project"/>
   </a>
-
   <a href="https://www.qemu.org/" target="_blank">
     <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" 
-         alt="QEMU" height="40" title="QEMU"/>
+         alt="QEMU" height="45" title="QEMU"/>
   </a>
-
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
     <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" 
-         alt="ESP32" height="40" title="ESP32"/>
+         alt="ESP32" height="45" title="ESP32"/>
   </a>
-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/AUTOSAR-1E90FF?style=for-the-badge&logo=autodesk&logoColor=white" 
-         alt="AUTOSAR" height="40" title="AUTOSAR"/>
+         alt="AUTOSAR" height="45" title="AUTOSAR"/>
   </a>
-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/RTOS-008080?style=for-the-badge&logo=freebsd&logoColor=white" 
-         alt="RTOS" height="40" title="RTOS"/>
+         alt="RTOS" height="45" title="RTOS"/>
   </a>
-
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Device%20Drivers-6A0DAD?style=for-the-badge&logo=kernel&logoColor=white" 
-         alt="Device Drivers" height="40" title="Device Drivers"/>
+         alt="Device Drivers" height="45" title="Device Drivers"/>
   </a>
+</p>
 
 </div>
 
-</div>
 
 ---
 
