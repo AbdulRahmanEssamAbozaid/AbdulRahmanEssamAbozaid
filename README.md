@@ -84,22 +84,34 @@
 <div align="center">
 
 <table>
+  <!-- الصف الأول -->
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/AbdoRobusta/IOT_Communication_System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=IOT_Communication_System&theme=radical" width="100%" />
       </a>
       <h3>📡 IoT Communication System</h3>
       <p>Server-Client communication system using C++ sockets for IoT devices.</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Embedded-Linux-NTI&theme=radical" width="100%" />
       </a>
       <h3>🐧 Embedded Linux (NTI)</h3>
       <p>Yocto-based Linux image, drivers, and build automation for Raspberry Pi.</p>
     </td>
-    <td align="center" width="33%">
+  </tr>
+
+  <!-- الصف الثاني -->
+  <tr>
+    <td align="center" width="50%">
+  <a href="https://github.com/AbdulRahmanEssamAbozaid/AUTOSAR/tree/master/AUTOSAR_Project_WS/AUTOSAR_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulRahmanEssamAbozaid&repo=AUTOSAR&theme=radical" width="100%" />
+  </a>
+  <h3>🚗 AUTOSAR PORT DRIVER</h3>
+  <p>Implementation of AUTOSAR Port Driver module with configuration files.</p>
+</td>
+    <td align="center" width="50%">
       <a href="https://github.com/AbdoRobusta/Smart-Wallet">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Smart-Wallet&theme=radical" width="100%" />
       </a>
