@@ -87,14 +87,14 @@
   <!-- الصف الأول -->
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/AbdoRobusta/IOT_Communication_System">
+      <a href="https://github.com/AbdulRahmanEssamAbozaid/IOT_Communication_System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=IOT_Communication_System&theme=radical" width="100%" />
       </a>
       <h3>📡 IoT Communication System</h3>
       <p>Server-Client communication system using C++ sockets for IoT devices.</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/AbdoRobusta/Embedded-Linux-NTI">
+      <a href="https://github.com/AbdulRahmanEssamAbozaid/Embedded-Linux-NTI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Embedded-Linux-NTI&theme=radical" width="100%" />
       </a>
       <h3>🐧 Embedded Linux (NTI)</h3>
@@ -112,7 +112,7 @@
   <p>Implementation of AUTOSAR Port Driver module with configuration files.</p>
 </td>
     <td align="center" width="50%">
-      <a href="https://github.com/AbdoRobusta/Smart-Wallet">
+      <a href="https://github.com/AbdulRahmanEssamAbozaid/Smart-Wallet">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoRobusta&repo=Smart-Wallet&theme=radical" width="100%" />
       </a>
       <h3>💳 Smart Wallet</h3>
