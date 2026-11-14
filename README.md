@@ -14,14 +14,22 @@ I'm **AbdulRahman Essam Abozaid**, an Embedded Linux developer based in Cairo. I
 
 My projects and learning focus on Yocto-based Linux images, Raspberry Pi, QEMU, device drivers, AUTOSAR and embedded networking. I enjoy working through the path from a board and its operating system to the applications running on it.
 
+<p align="center">
+  <img src="assets/embedded-workflow.gif" width="1200" alt="Animated embedded Linux workflow, from source code through Yocto and Linux drivers to Raspberry Pi and QEMU" />
+</p>
+
+<p align="center"><a href="assets/embedded-workflow-still.png">View the still illustration</a></p>
+
 ## Selected projects
 
-| Project | What you'll find | Stack |
-| --- | --- | --- |
-| [IoT Communication System](https://github.com/AbdulRahmanEssamAbozaid/IOT_Communication_System) | TCP client/server and UDP multicast communication for Raspberry Pi 4 and QEMU. | C++ · Sockets · Yocto |
-| [AUTOSAR](https://github.com/AbdulRahmanEssamAbozaid/AUTOSAR) | AUTOSAR architecture coursework and a Port Driver implementation. | C · MCAL · Device drivers |
-| [vSomeIP](https://github.com/AbdulRahmanEssamAbozaid/VSOME-IP) | Setup notes and examples for host and Raspberry Pi environments. | C++ · SOME/IP · Yocto |
-| [Qt applications](https://github.com/AbdulRahmanEssamAbozaid/QT-app) | Application examples built with Qt 6. | C++ · Qt |
+<p>
+  <a href="https://github.com/AbdulRahmanEssamAbozaid/IOT_Communication_System"><img src="assets/project-iot.svg" width="440" alt="IoT Communication System — TCP and UDP communication for Raspberry Pi 4 and QEMU, using C++ sockets and Yocto" /></a>
+  <a href="https://github.com/AbdulRahmanEssamAbozaid/AUTOSAR"><img src="assets/project-autosar.svg" width="440" alt="AUTOSAR — Architecture coursework and Port Driver implementation in C" /></a>
+</p>
+<p>
+  <a href="https://github.com/AbdulRahmanEssamAbozaid/VSOME-IP"><img src="assets/project-vsomeip.svg" width="440" alt="vSomeIP — Setup notes and examples for host and Raspberry Pi environments" /></a>
+  <a href="https://github.com/AbdulRahmanEssamAbozaid/QT-app"><img src="assets/project-qt.svg" width="440" alt="Qt Applications — Application examples built with Qt 6 and C++" /></a>
+</p>
 
 ## Tools I work with
 
@@ -62,7 +70,9 @@ These figures are refreshed weekly from GitHub's public API. You can see the sna
 <details>
 <summary>How this profile stays up to date</summary>
 
-The profile banner and statistics are stored in this repository. The refresh workflow runs weekly and can also be started manually from [Actions](https://github.com/AbdulRahmanEssamAbozaid/AbdulRahmanEssamAbozaid/actions). The graphics use SVG and remain readable when animation is disabled.
+The profile banner, project cards and animation are stored in this repository. The statistics refresh weekly and can also be updated manually from [Actions](https://github.com/AbdulRahmanEssamAbozaid/AbdulRahmanEssamAbozaid/actions). A still version of the workflow illustration is available above.
+
+To regenerate the artwork, install the locked development dependencies with `npm ci`, then run `node scripts/build-project-cards.mjs` and `npm run art:export`. Statistics refresh independently with `node scripts/refresh-profile.mjs`.
 
 </details>
 

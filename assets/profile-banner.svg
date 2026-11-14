@@ -5,9 +5,11 @@
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#091524"/><stop offset="1" stop-color="#123738"/></linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ab9c2" stroke-opacity=".055"/></pattern>
   </defs>
-  <style>.signal{stroke-dasharray:10 220;animation:travel 7s linear infinite}@keyframes travel{to{stroke-dashoffset:-460}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+  <style>.signal{stroke-dasharray:14 130;animation:travel 5s linear infinite}.orbit{transform-origin:890px 200px;animation:orbit 28s linear infinite}.halo{animation:breathe 6s ease-in-out infinite}@keyframes travel{to{stroke-dashoffset:-432}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes breathe{0%,100%{opacity:.02}50%{opacity:.06}}@media(prefers-reduced-motion:reduce){.signal,.orbit,.halo{animation:none}}</style>
   <rect width="1200" height="400" rx="24" fill="url(#background)"/>
   <rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+  <circle class="halo" cx="890" cy="200" r="162" fill="#5ecbae" opacity=".04"/>
+  <g class="orbit" fill="none" stroke="#6fcfb8" stroke-opacity=".3"><circle cx="890" cy="200" r="157" stroke-dasharray="86 160"/><circle cx="1047" cy="200" r="5" fill="#a2ebcf" stroke="none"/></g>
   <g font-family="Arial,Helvetica,sans-serif">
     <text x="52" y="74" fill="#87d3bd" font-size="13" letter-spacing="3">EMBEDDED LINUX DEVELOPER</text>
     <text x="48" y="150" fill="#f6f8fb" font-size="48" font-weight="700">AbdulRahman</text>
