@@ -1,0 +1,43 @@
+name: Refresh profile
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/refresh-profile.mjs
+      - .github/workflows/refresh-profile.yml
+  schedule:
+    - cron: '23 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Refresh public profile figures
+        run: node scripts/refresh-profile.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Save refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-stats.svg assets/profile-stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public profile statistics"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

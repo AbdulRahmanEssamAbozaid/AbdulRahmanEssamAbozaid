@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">AbdulRahman Essam Abozaid</title>
+  <desc id="desc">Embedded Linux developer. Yocto, device drivers and connected systems. A circuit illustration with softly moving signals.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#091524"/><stop offset="1" stop-color="#123738"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ab9c2" stroke-opacity=".055"/></pattern>
+  </defs>
+  <style>.signal{stroke-dasharray:10 220;animation:travel 7s linear infinite}@keyframes travel{to{stroke-dashoffset:-460}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+  <rect width="1200" height="400" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="52" y="74" fill="#87d3bd" font-size="13" letter-spacing="3">EMBEDDED LINUX DEVELOPER</text>
+    <text x="48" y="150" fill="#f6f8fb" font-size="48" font-weight="700">AbdulRahman</text>
+    <text x="48" y="208" fill="#f6f8fb" font-size="44" font-weight="700">Essam Abozaid</text>
+    <text x="52" y="266" fill="#b5cbd3" font-size="22">Yocto. Device drivers. Connected systems.</text>
+    <path d="M52 305H520" stroke="#355565"/>
+    <text x="52" y="341" fill="#88a9ba" font-size="14" letter-spacing="1.2">C / C++ / PYTHON / LINUX</text>
+  </g>
+  <g fill="none" stroke="#315b63" stroke-width="2">
+    <path d="M688 96H756V146H820M694 220H770V200H820M704 310H788V254H820M960 146H1020V94H1130M960 200H1134M960 254H1040V310H1130"/>
+    <rect x="820" y="116" width="140" height="168" rx="18" fill="#0c202b" stroke="#6bb7a6"/>
+    <rect x="842" y="138" width="96" height="124" rx="9" stroke="#355f68"/>
+    <path d="M844 99V116M868 99V116M892 99V116M916 99V116M940 99V116M844 284V301M868 284V301M892 284V301M916 284V301M940 284V301"/>
+  </g>
+  <g fill="none" stroke="#88e1bf" stroke-width="3" class="signal"><path d="M688 96H756V146H820"/><path d="M960 200H1134"/><path d="M704 310H788V254H820"/></g>
+  <g fill="#87d3bd"><circle cx="688" cy="96" r="5"/><circle cx="694" cy="220" r="5"/><circle cx="704" cy="310" r="5"/><circle cx="1130" cy="94" r="5"/><circle cx="1134" cy="200" r="5"/><circle cx="1130" cy="310" r="5"/></g>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="890" y="191" fill="#e8f6f0" font-size="24" font-weight="700">LINUX</text><text x="890" y="221" fill="#7fabae" font-size="12" letter-spacing="2">ON BOARD</text></g>
+</svg>
