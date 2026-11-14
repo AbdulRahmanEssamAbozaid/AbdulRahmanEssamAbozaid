@@ -22,14 +22,16 @@ My projects and learning focus on Yocto-based Linux images, Raspberry Pi, QEMU, 
 
 ## Selected projects
 
-<p>
-  <a href="https://github.com/AbdulRahmanEssamAbozaid/IOT_Communication_System"><img src="assets/project-iot.svg" width="440" alt="IoT Communication System — TCP and UDP communication for Raspberry Pi 4 and QEMU, using C++ sockets and Yocto" /></a>
-  <a href="https://github.com/AbdulRahmanEssamAbozaid/AUTOSAR"><img src="assets/project-autosar.svg" width="440" alt="AUTOSAR — Architecture coursework and Port Driver implementation in C" /></a>
-</p>
-<p>
-  <a href="https://github.com/AbdulRahmanEssamAbozaid/VSOME-IP"><img src="assets/project-vsomeip.svg" width="440" alt="vSomeIP — Setup notes and examples for host and Raspberry Pi environments" /></a>
-  <a href="https://github.com/AbdulRahmanEssamAbozaid/QT-app"><img src="assets/project-qt.svg" width="440" alt="Qt Applications — Application examples built with Qt 6 and C++" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/AbdulRahmanEssamAbozaid/IOT_Communication_System"><img src="assets/project-iot.svg" width="100%" alt="IoT Communication System — TCP and UDP communication for Raspberry Pi 4 and QEMU, using C++ sockets and Yocto" /></a></td>
+    <td width="50%"><a href="https://github.com/AbdulRahmanEssamAbozaid/AUTOSAR"><img src="assets/project-autosar.svg" width="100%" alt="AUTOSAR — Architecture coursework and Port Driver implementation in C" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/AbdulRahmanEssamAbozaid/VSOME-IP"><img src="assets/project-vsomeip.svg" width="100%" alt="vSomeIP — Setup notes and examples for host and Raspberry Pi environments" /></a></td>
+    <td width="50%"><a href="https://github.com/AbdulRahmanEssamAbozaid/QT-app"><img src="assets/project-qt.svg" width="100%" alt="Qt Applications — Application examples built with Qt 6 and C++" /></a></td>
+  </tr>
+</table>
 
 ## Tools I work with
 
